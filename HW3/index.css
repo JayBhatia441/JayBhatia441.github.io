@@ -10,20 +10,7 @@
     
 }
 
-.first li{
-    float: left;
-    display: inline;
-    padding-left: 5px;
-}
 
-.second li{
-    float: left;
-    display: inline;
-    padding-left: 5px;
-}
-/* p{
-    padding-bottom: ;
-} */
 
 table tr td img{
     height: 370px;
@@ -105,8 +92,6 @@ table{
 
 .nature{
     
-    /* margin-right: auto;
-    width:20px; */
     margin-top: 0px;
     padding-left: 7px;
     font-size: 35px;
@@ -139,7 +124,7 @@ table{
     padding-right: 7.5px;
     height: 18;
     width: 18;
-    /* margin-bottom: 10px; */
+
 }
 
 .big-container3{
