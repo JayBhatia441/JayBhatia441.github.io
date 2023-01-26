@@ -65,7 +65,7 @@ table{
 .big-container{
     margin-left: auto;
     margin-right: auto;
-    width: 1000px;
+    width: 740px;
     
 }
 
@@ -74,7 +74,9 @@ table{
 }
 
 .container{
+    
     margin-left: auto;
+    margin-left: 65px;
     margin-top: 25px;
     margin-right: auto;
     text-align: center;
@@ -91,7 +93,7 @@ table{
 .big-container2{
     margin-left: auto;
     margin-right: auto;
-    width: 1000px;
+    width: 740px;
     margin-top: 45px;
     
 }
@@ -106,7 +108,7 @@ table{
     /* margin-right: auto;
     width:20px; */
     margin-top: 0px;
-    padding-left: 125px;
+    padding-left: 7px;
     font-size: 35px;
     margin-bottom: 0px;
 }
@@ -115,25 +117,26 @@ table{
     margin-top: 27px;
     font-family: Georgia;
     text-align: center;
-    font-size: 8px;
+    font-size: 9.5px;
     font-style: italic;
-    padding-left: 0px;
+    padding-left: 18px;
+    color: gray;
     
 }
 
 .logo{
-    width: 100px;
+    width: 110px;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
-    padding-left: 0px;
+    padding-left: 20px;
     
 }
 
 .logo img{
-    padding-left: 6px;
-    padding-right: 6px;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
     height: 18;
     width: 18;
     /* margin-bottom: 10px; */
@@ -142,6 +145,6 @@ table{
 .big-container3{
     margin-left: auto;
     margin-right: auto;
-    width: 1000px;
+    width: 750px;
     margin-top:15px;
 }
