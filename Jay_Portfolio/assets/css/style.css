@@ -611,6 +611,12 @@ section {
   opacity: 0;
 }
 
+.card-img-top {
+  height: 200px; /* Adjust the height as needed */
+  object-fit: cover;
+  width: 100%;
+}
+
 .portfolio .portfolio-wrap .portfolio-links {
   opacity: 1;
   left: 0;
